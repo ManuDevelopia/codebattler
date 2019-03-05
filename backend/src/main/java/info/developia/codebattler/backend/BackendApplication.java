@@ -1,4 +1,4 @@
-package info.developia.codebatler.backend;
+package info.developia.codebattler.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

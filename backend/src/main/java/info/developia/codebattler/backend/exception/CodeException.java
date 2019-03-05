@@ -1,4 +1,4 @@
-package info.developia.codebatler.backend.exception;
+package info.developia.codebattler.backend.exception;
 
 public class CodeException extends RuntimeException {
 

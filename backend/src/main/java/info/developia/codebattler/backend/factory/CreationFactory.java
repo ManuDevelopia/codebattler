@@ -1,7 +1,10 @@
-package info.developia.codebatler.backend.factory;
+package info.developia.codebattler.backend.factory;
 
-import info.developia.codebatler.backend.exception.CodeException;
-import info.developia.codebatler.backend.model.*;
+import info.developia.codebattler.backend.exception.CodeException;
+import info.developia.codebattler.backend.model.*;
+import info.developia.codebattler.backend.model.AbstractCreation;
+import info.developia.codebattler.backend.model.Creature;
+import info.developia.codebattler.backend.model.Item;
 import org.springframework.stereotype.Component;
 
 @Component

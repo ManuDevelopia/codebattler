@@ -1,4 +1,4 @@
-package info.developia.codebatler.backend;
+package info.developia.codebattler.backend;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,7 +1,7 @@
-package info.developia.codebatler.backend.controller;
+package info.developia.codebattler.backend.controller;
 
-import info.developia.codebatler.backend.model.AbstractCreation;
-import info.developia.codebatler.backend.service.CreationService;
+import info.developia.codebattler.backend.model.AbstractCreation;
+import info.developia.codebattler.backend.service.CreationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

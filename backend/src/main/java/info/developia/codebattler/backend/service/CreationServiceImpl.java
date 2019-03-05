@@ -1,7 +1,7 @@
-package info.developia.codebatler.backend.service;
+package info.developia.codebattler.backend.service;
 
-import info.developia.codebatler.backend.factory.CreationFactory;
-import info.developia.codebatler.backend.model.AbstractCreation;
+import info.developia.codebattler.backend.factory.CreationFactory;
+import info.developia.codebattler.backend.model.AbstractCreation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

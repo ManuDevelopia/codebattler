@@ -1,4 +1,4 @@
-package info.developia.codebatler.backend.model;
+package info.developia.codebattler.backend.model;
 
 import lombok.Data;
 

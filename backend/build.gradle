@@ -5,7 +5,7 @@ plugins {
 
 apply plugin: 'io.spring.dependency-management'
 
-group = 'info.developia.codebatler'
+group = 'info.developia.codebattler'
 version = '1.0.0-SNAPSHOT'
 sourceCompatibility = '1.8'
 
